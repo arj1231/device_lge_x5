@@ -1,0 +1,3 @@
+#!/system/bin/sh
+su
+echo 0 >/sys/class/i2c-adapter/i2c-2/2-0032/led_pattern
